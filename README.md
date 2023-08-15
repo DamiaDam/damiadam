@@ -1,8 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I am Damianos Damianakis
+A passionate Software Developer from Greece 🇬🇷
 
-<div id="header" align="center">
-  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-  </img>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="150"/>
+</div>
+
+<h>Connect with me: </h>
+<div id ="badges">
+  <a href="https://www.linkedin.com/in/damianos-damianakis/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<div>
+- 🔭 I’m currently searching for a challenging job opportunity
+- 🌱 I’m currently learning Vue.js, Typescript
+- 📫 How to reach me: damianakisdam@gmail.com
+- ⚡ Fun fact: The HTTP status code "404 Not Found" was inspired by a room number at CERN where the World Wide Web  was born. Room 404 was humorously designated as "not found."
 </div>
 
 
