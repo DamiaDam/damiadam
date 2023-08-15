@@ -1,6 +1,5 @@
-### Hi there 👋, I am Damianos Damianakis
-A passionate Software Developer from Greece 🇬🇷
-
+                                ### Hi there 👋, I am Damianos Damianakis
+                                A passionate Software Developer from Greece 🇬🇷
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="150"/>
 </div>
@@ -13,9 +12,9 @@ A passionate Software Developer from Greece 🇬🇷
 </div>
 
 <div>
-- 🔭 I’m currently searching for a challenging job opportunity
-- 🌱 I’m currently learning Vue.js, Typescript
-- 📫 How to reach me: damianakisdam@gmail.com
+- 🔭 I’m currently searching for a challenging job opportunity <br>
+- 🌱 I’m currently learning Vue.js, Typescript <br>
+- 📫 How to reach me: damianakisdam@gmail.com <br>
 - ⚡ Fun fact: The HTTP status code "404 Not Found" was inspired by a room number at CERN where the World Wide Web  was born. Room 404 was humorously designated as "not found."
 </div>
 
