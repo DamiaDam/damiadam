@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Damianos Damianakis 
-### A passionate Software Developer from Greece 🇬🇷
+### A passionate Junior Software Developer from Greece 🇬🇷
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
