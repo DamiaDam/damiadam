@@ -1,5 +1,5 @@
-### Hi there 👋, I am Damianos Damianakis 
-### A passionate Junior Software Developer from Greece 🇬🇷
+### <p align = "center"> Hi there 👋, I am Damianos Damianakis </p>
+<p align="center"> A passionate Junior Software Developer from Greece 🇬🇷 </p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
@@ -17,8 +17,8 @@
 <br>
 
 <div>
-- 🔭 I’m currently searching for a challenging job opportunity <br>
-- 🌱 I’m currently learning Java, Typescript <br>
+- 🔭 I’m currently searching for a challenging job opportunity. <br>
+- 🌱 I’m currently learning Java, Typescript. <br>
 - 📫 How to reach me: <a href = "mailto: damianakisdam@gmail.com">Send Email</a> <br>
 - ⚡ Fun fact: The HTTP status code "404 Not Found" was inspired by a room number at CERN where the World Wide Web  was born. Room 404 was humorously designated as "not found."
 </div>
@@ -44,4 +44,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" **alt="MATLAB" width="40" height="40"/>
 </div>
