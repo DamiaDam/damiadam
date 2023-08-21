@@ -1,5 +1,5 @@
 ### <p align = "center"> Hi there 👋, I am Damianos Damianakis </p>
-<p align="center"> A passionate Junior Software Developer from Greece 🇬🇷 </p>
+<p align="center"> A passionate Software Developer from Greece 🇬🇷 </p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
