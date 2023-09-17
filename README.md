@@ -18,7 +18,7 @@
 
 <div>
 - 🔭 I’m currently searching for a challenging job opportunity. <br>
-- 🌱 I’m currently learning Java, Typescript. <br>
+- 🌱 I’m currently learning Business Analysis Tools. <br>
 - 📫 How to reach me: <a href = "mailto: damianakisdam@gmail.com">Send Email</a> <br>
 - ⚡ Fun fact: The HTTP status code "404 Not Found" was inspired by a room number at CERN where the World Wide Web  was born. Room 404 was humorously designated as "not found."
 </div>
